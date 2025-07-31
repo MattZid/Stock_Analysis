@@ -1,2 +1,2 @@
 # EPS Analyzer
-compare_eps() v2.01
+compare_eps() v3.0
