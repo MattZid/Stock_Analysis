@@ -1,2 +1,2 @@
-# Stock_Analysis
-In development codebase of scripts using yfinance package to create useful investment visualizations and fundamental analysis support.
+# EPS Analyzer
+Development of EPS functions for analysis
